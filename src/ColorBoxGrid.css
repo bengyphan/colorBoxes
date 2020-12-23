@@ -1,0 +1,4 @@
+.ColorBoxGrid {
+	display: flex;
+	flex-wrap: wrap;
+}

@@ -1,10 +1,10 @@
-import ColoredBoxes from './ColoredBoxes';
 import './App.css';
+import ColorBoxes from './ColorBoxes';
 
 function App() {
 	return (
 		<div className="App">
-			<ColoredBoxes />
+			<ColorBoxes />
 		</div>
 	);
 }
